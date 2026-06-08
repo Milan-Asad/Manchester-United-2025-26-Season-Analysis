@@ -13,3 +13,7 @@ An insight and analysis of the 2025-26 Man Utd season up until gameweek 33
 ### GAMEWEEK TABLE ANALYSIS
 <img width="1295" height="727" alt="image" src="https://github.com/user-attachments/assets/fca0d2d8-c9fc-46c4-bde4-203284e05fee" />
 
+### QUADRANT ANALYSIS
+
+#### KEY PASSES BY MINUTES PLAYED
+<img width="1275" height="720" alt="image" src="https://github.com/user-attachments/assets/fd136948-6a5d-4418-b6a6-cb612c7c1552" />
